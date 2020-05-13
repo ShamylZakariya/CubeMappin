@@ -20,4 +20,4 @@ I made this because I wanted a nice way to design skybox cubemaps for my opengl 
 
 ![Image of Unity Editor](README_assets/unity.png)
 
-![Sample of back.png](README_assets/back.png)
+![Sample of back.png](README_assets/back.jpg)
