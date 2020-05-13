@@ -18,6 +18,10 @@ I made this because I wanted a nice way to design skybox cubemaps for my opengl 
 
 ### Screenshots:
 
+Unity:
+
 ![Image of Unity Editor](README_assets/unity.png)
+
+Exported image `back.jpg`
 
 ![Sample of back.png](README_assets/back.jpg)
